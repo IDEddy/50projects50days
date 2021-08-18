@@ -17,7 +17,7 @@ body {
 }
 
 .magic {
-  background-color: #f9ca24;
+  background-color: #CA6425;
   color: #fff;
   font-family: 'Poppins', sans-serif;
   border: 0;
@@ -61,7 +61,7 @@ body {
 }
 
 .box {
-  background-image: url('https://media.giphy.com/media/EZqwsBSPlvSda/giphy.gif');
+  background-image: url('https://media.giphy.com/media/MTuggsZVgj80RVOiUI/giphy.gif');
   background-repeat: no-repeat;
   background-size: 500px 500px;
   position: relative;
@@ -72,7 +72,7 @@ body {
 
 .box::after {
   content: '';
-  background-color: #f6e58d;
+  background-color: #CA6425;
   position: absolute;
   top: 8px;
   right: -15px;
